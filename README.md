@@ -186,11 +186,11 @@ location /daohang/ {
 
 ### Tip: 有其他模板或样式吗？
 
-后续会添加，也非常欢迎你来贡献。
+可以查看[更多模板](https://github.com/WebStackPage/WebStackPage.github.io)
 
 ## 需要帮助？
 
-如果遇到问题，需要帮助，请添加 [issue](https://github.com/geneasy/nav/issues)。
+如果遇到问题，需要帮助，请添加 [issue](https://github.com/Cheanerlia/Sites_Links/issues)。
 
 ## Related
 
@@ -200,7 +200,7 @@ location /daohang/ {
 
 ## License
 
-Copyright (c) 2021 [Pipecraft][my-url]. Licensed under the [MIT license][license-url].
+Copyright (c) 2023 [Cheanerllia][my-url]. Licensed under the [MIT license][license-url].
 
 ## >\_
 
