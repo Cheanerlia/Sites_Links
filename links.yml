@@ -66,10 +66,10 @@ categories:
         url: https://gitee.com/
         description: 基于Git的代码托管服务
         #tags: 程序员,社区
-      - title: ChatGPT
+      - title: Cheanerlia工具
         logo: https://openai.com/favicon.ico
         url: https://ai.cxyquan.com/web/#/
-        description: ChatGPT4 AI
+        description: 代码工具
         #tags: 程序员,社区
 
   - category: 程序员
